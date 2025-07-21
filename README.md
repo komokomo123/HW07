@@ -51,3 +51,6 @@
 
 ## 사용한 에셋
 ### https://www.fab.com/ko/listings/3de203c9-a2b8-474e-abee-40cef47dfe8d
+
+## 유튜브 링크
+### https://youtu.be/AkHLezUAqYQ
