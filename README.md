@@ -50,4 +50,4 @@
 ### 필수 과제 1, 2번
 
 ## 사용한 에셋
-###https://www.fab.com/ko/listings/3de203c9-a2b8-474e-abee-40cef47dfe8d
+### https://www.fab.com/ko/listings/3de203c9-a2b8-474e-abee-40cef47dfe8d
